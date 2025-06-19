@@ -73,5 +73,3 @@ This dashboard answers the following questions:
 - Integrate subscriber or viewing statistics (if available)
 - Enable drill-through pages for deeper genre or country analysis
 
-## Screenshot
-
