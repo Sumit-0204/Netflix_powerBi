@@ -2,7 +2,7 @@
 
 This project is an interactive dashboard built using Power BI that visualizes key metrics and trends from Netflix's global content catalog. It provides insights into content distribution by type, genre, country, and release year, along with runtime and IMDb ratings.
 
-![Netflix Dashboard Screenshot]()
+![Netflix Dashboard Screenshot](https://github.com/Sumit-0204/Netflix_powerBi/blob/main/Untitled.png)
 
 ## Overview
 
